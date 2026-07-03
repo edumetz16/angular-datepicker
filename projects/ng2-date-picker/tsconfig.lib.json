@@ -7,6 +7,8 @@
     "declarationMap": true,
     "inlineSources": true,
     "esModuleInterop": true,
+    "strict": false,
+    "ignoreDeprecations": "6.0",
     "types": []
   },
   "exclude": [
